@@ -7,7 +7,7 @@ All notable, unreleased changes to this project will be documented in this file.
 - Fixed internal error when creating a checkout with a voucher code - #4292 by @NyanKiyoshi
 - Add filter tab name as required - #4269 by @benekex2
 - A few unused panels are now disabled by default from the debug toolbar; this should improve loading time when debugging - #4301 by @NyanKiyoshi
-- Improve vouchers - #4293 by @fowczarek
+- Change type of start and end date for discounts on date time field - #4293 by @fowczarek
 
 ## 2.7.0
 
